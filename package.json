@@ -1,0 +1,16 @@
+{
+  "name": "dot_express",
+  "description": "Node to doT interface",
+  "version": "1.0.0",
+  "main": "index",
+  "author": {
+    "name": "Aurélien Larive",
+    "email": "alarive@imj.fr"
+  },
+  "engines": [
+    "node >=0.2.6"
+  ],
+  "dependencies": {
+    "dot": "1.0.2"
+  }
+}
